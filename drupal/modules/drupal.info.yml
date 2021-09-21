@@ -1,0 +1,9 @@
+name: PHP Development Examples
+type: module
+description: 'Provides Example Code .'
+core_version_requirement: ^8 || ^9
+core: 8.x
+dependencies:
+- drupal:block
+- drupal:devel
+- drupal:kint

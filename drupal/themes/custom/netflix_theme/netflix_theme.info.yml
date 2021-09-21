@@ -1,0 +1,9 @@
+name: Netfilx_Theme
+type: theme
+description: Custom Netflix Theme
+core_version_requirement: ^8 || ^9
+core: 8.x
+base theme: stable
+
+libraries:
+  - netflix_theme/global

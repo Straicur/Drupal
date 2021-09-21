@@ -1,0 +1,5 @@
+name: Plugin Example
+type: module
+description: 'Provides Example Code for 2018 GovCon.'
+core_version_requirement: ^8 || ^9
+core: 8.x
